@@ -1,11 +1,7 @@
-html {
-    padding: 0;
-    margin: 0;
-}
-
 body {
     background-color: bisque;
     color: #333;
+    font-family:'Times New Roman', Times, serif;
     font-size: 2rem;
     margin: 1rem;
 }
@@ -13,4 +9,9 @@ body {
 .image {
     padding: 0rem;
     margin: 0;
+}
+
+.ingredients .ingr {
+    font-style: italic;
+    font-weight: 500;
 }
