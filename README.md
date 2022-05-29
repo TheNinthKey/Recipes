@@ -1,2 +1,2 @@
 # Recipes
-Project for practicing HTML, CSS, and JS
+My first project for practicing HTML and CSS.
